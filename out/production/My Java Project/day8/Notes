@@ -23,3 +23,14 @@ Variables: Are like jars/containers/boxes which can hold/store something
         //        //short: -32768 to 32767
         //        //int  : -2147483648 t0 2147483647
         //        //long : -9223372036854775808 to 9223372036854775807
+
+        //The moment we apply any mathematical operations on char data types it will show
+        // its numeric behaviour
+
+        //We mostly use int data type to store integer numbers and not byte or short as any mathematical operation
+        //on byte/short might lead to a value that is beyond the range of byte/short, to prevent this, JVM
+        //prohibited any mathematical operation not to be performed on byte/short data types
+
+        //NON-PRIMITIVE DATA TYPES
+        //To store more than one character, we use String data type
+        //String data should always be stored in double quotes ""
