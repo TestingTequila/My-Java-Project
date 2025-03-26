@@ -1,0 +1,22 @@
+Statements: Whenever we have to make decisions, we use statements
+            1. if statement [fails to handle false scenario]
+            if(condition)
+            {
+               This will execute only if condition is true
+            }
+
+
+            2. multiple if statement -> to make multiple decisions[slow performance and fails to handle false scenario]
+
+            3. if-else statement
+                   if(condition)
+                        {
+                           This will execute only if condition is true
+                        }
+                        else
+                        {
+                           This will execute only if condition is false
+                        }
+
+            if-else if statement
+            switch statement

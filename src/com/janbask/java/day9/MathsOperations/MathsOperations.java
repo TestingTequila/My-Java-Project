@@ -19,6 +19,5 @@ public class MathsOperations
         System.out.println(10%3);//1
         System.out.println(12.33%10);//2.33
 
-
     }
 }
