@@ -1,4 +1,4 @@
-package com.janbask.java.Loops.WhileLoop;
+package com.janbask.java.day11.WhileLoop;
 
 public class WhileLoop3
 {

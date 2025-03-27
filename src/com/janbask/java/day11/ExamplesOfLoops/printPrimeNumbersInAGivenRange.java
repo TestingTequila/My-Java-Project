@@ -1,4 +1,4 @@
-package com.janbask.java.Loops.ExamplesOfLoops;
+package com.janbask.java.day11.ExamplesOfLoops;
 
 public class printPrimeNumbersInAGivenRange {
     public static void main(String[] args) {

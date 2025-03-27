@@ -1,13 +1,14 @@
-package com.janbask.java.Loops.ForLoop;
+package com.janbask.java.day11.WhileLoop;
 
-public class ForLoop
+public class WhileLoop
 {
     public static void main(String[] args) {
         System.out.println("======Print name=================");
-
-        for (int x =1;x<=10; x++)
+        int x =1;
+        while (x<=10)
         {
             System.out.println("My name is Natesha");
+            x++;
         }
 
 

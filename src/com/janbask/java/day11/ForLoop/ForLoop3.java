@@ -1,4 +1,4 @@
-package com.janbask.java.Loops.ForLoop;
+package com.janbask.java.day11.ForLoop;
 
 public class ForLoop3
 {

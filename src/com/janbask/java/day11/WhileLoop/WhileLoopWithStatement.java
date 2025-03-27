@@ -1,16 +1,16 @@
-package com.janbask.java.Loops.ForLoop;
+package com.janbask.java.day11.WhileLoop;
 
-public class ForLoopWithStatement
+public class WhileLoopWithStatement
 {
     public static void main(String[] args) {
         System.out.println("======Print number=================");
-
-        for (int x =1;x<=100;x++)
+        int x =1;
+        while (x<=100)
         {
             if(x%5!=0) {
                 System.out.println(x);
             }
-
+            x++;
         }
 
 
