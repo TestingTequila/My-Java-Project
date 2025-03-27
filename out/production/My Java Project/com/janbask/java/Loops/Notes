@@ -1,0 +1,14 @@
+Loops: Repetitive tasks
+       1-> while loop
+        variable
+        while(condition)
+        {
+          I/D;
+        }
+       2-> for loop
+               for(variable; condition; I/D)
+               {
+
+               }
+
+       3-> advanced for loop [for each loop]

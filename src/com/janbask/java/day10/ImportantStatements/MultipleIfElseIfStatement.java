@@ -1,6 +1,6 @@
-package com.janbask.java.day10.Statements;
+package com.janbask.java.day10.ImportantStatements;
 
-public class IfElseIfStatement
+public class MultipleIfElseIfStatement
 {
     public static void main(String[] args) {
         if(false)

@@ -1,4 +1,4 @@
-package com.janbask.java.day10.Statements;
+package com.janbask.java.day10.ImportantStatements;
 
 public class IfElseStatement
 {

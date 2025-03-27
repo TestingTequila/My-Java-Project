@@ -18,5 +18,9 @@ Statements: Whenever we have to make decisions, we use statements
                            This will execute only if condition is false
                         }
 
-            if-else if statement
-            switch statement
+            if-else[Just to check one condition with positive and negative scenarios]
+            if-else if statement[Check multiple conditions, slower]
+            switch statement [Check multiple conditions, faster]
+                             range
+                             &&
+                             long, float, double, boolean data types
